@@ -1,0 +1,13 @@
+#header
+{
+    background: red;
+    height: 4rem;
+}
+
+.meme
+{
+  font-family: Comic Sans MS;
+  font-size: 72;
+
+  padding-left: 350px;
+}
